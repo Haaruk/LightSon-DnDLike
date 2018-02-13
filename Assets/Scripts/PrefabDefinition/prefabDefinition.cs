@@ -9,14 +9,13 @@ public class prefabDefinition : MonoBehaviour {
      *         in increments of CONSTANTS.size
      */
 
-    public float size = GameConstants.SIZE;
     public float height;
     public float width;
     public float lenght;
 
     void Awake() {
 
-        Debug.Log(size);
+        Debug.Log("");
 
     }
     
