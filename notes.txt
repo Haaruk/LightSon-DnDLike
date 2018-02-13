@@ -1,0 +1,96 @@
+fog of war per person - togglable by gm
+Mapmaker - faire plus tard (simple as fortnite with packages (pirate, caves, town, etc)) (Place "precreated" blocks/objects)
+Dice rolls (with dice) + mods
+point ability
+Statues while in table view //characters, enemis
+"flexible" characters in character view //characters, enemis
+EVERYTHING IS ON A GRID!!! snapping 1.5m par case
+Turn based game
+
+GM Mode
+    Control enemies (add enemies ai (patroille, stand guard, etc))
+    Impersonate enemis (give usefull information / casual talk)
+    pause the game
+    (someday maybe) - physics fire,ice,etc
+    possibility to get Topdown view
+    Special menu to modify the game as it goes (add enemies in certain cases)
+    posibility to create and maintain "the game so far"
+    Talk to players in subgroups or individually (isolate players if needed)
+
+
+player mode
+    plan and execute from table or game view
+    (while in combat)
+    ask to pause
+    // Timed turns and/or pre-select actions in advance for your turn
+
+table view
+    See friend around the table
+    See live map with restricted vision (based on character)
+    GM sees everything
+    Character sheet (menu with sub menu by theme a la VR diner duo)
+
+Character view
+    See arround yourself
+    Jump in the see little details
+    point to things
+
+Item and Gear
+    Setup base item list
+    Allows GM to create custom Item for campaign
+
+Campaign
+    Series of quests in the same "universe"
+    Character created for that universe
+    Custom item in that universe
+    Other special rules
+    Skill options
+    Fixed level per quest while in the campaign (someday) (bring your existing character maybe)
+
+Quest
+    Automatic difficulty detector (later) (Basé sur le Facteur de puissance)
+
+Enemis
+    All defined in the big book of monsters
+
+Characters
+    Define name, apearance, etc //no impact on game
+    Height class (small, medium, big) //impacts certain attacks and spells
+    Stats (str, dex, con, int, wis, cha)
+    Armor class
+    Initiative (for combat)
+    Speed (mouvement speed)
+    HP / temp HP (curses, buff from spells, etc)
+    Class (changes skills, passive, weapon, etc)
+    Level 1 et +
+    XP (continuous 0 et +)
+    Alignement (loyal - chaotic , bon - mauvais, neutre)
+    Race (humain, halfling, nain, half-orc, elf, half-elf, other)
+    Background (defined with the GM)
+    Language (utilise communication avec les races, maps, etc) voir GM
+    Gear (impacts armor class, affects stats bonuses, affects skills)
+    Alliance voir GM
+    OffClass (changes skills, passive, weapon, etc)
+    Saving throws (reflexe, vigueur, volonté) (bonus de class, bonus de stats, other )(resist effect, traps, spells)
+    Competence (permet des actions special ex perception, stealth, acrobatics)
+
+
+Skills
+    tests de competence
+    Certain base sur le level (ability to twice)
+    Dons (skill that can be used every turn)
+    Item with skills GM dependant
+    Scrolls casts the spell and burns the scroll
+    Limited number of spells per day
+    Prerequis (level, ecole de magie, etre capable de parler, gesticuler, etc)
+    Special skill comes from class, race , etc. can be spells or passive.
+
+Gameplay modes
+    SinglePlayer (only for Editor)
+    Mutliplayer online (mostly invite)
+    Local (VR + PC)
+    Matchmaking (in the future maybe)
+
+difficulté possible
+VR
+place l'audio en quelque part (faire parler des monstres)

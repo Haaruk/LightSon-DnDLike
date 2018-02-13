@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 52c8c428d78f251429280dce50cb94fd
+timeCreated: 1518471167
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Basis
+    100002: Basis_MeshPart0
+    100004: Basis_MeshPart1
+    100006: Basis_MeshPart2
+    100008: BezierCircle
+    100010: Circle
+    100012: Door
+    100014: Door_metal
+    100016: Door_metal_001
+    100018: Door_metal_002
+    100020: Door_metal_003
+    100022: Door_metal_004
+    100024: Door_metal_005
+    100026: Door_part
+    100028: Main_wood
+    100030: Plane
+    100032: Roof
+    100034: Roof_001
+    100036: //RootNode
+    100038: Top_window_wood
+    100040: Window
+    100042: Window_close
+    100044: Window_wood
+    100046: Wood
+    400000: Basis
+    400002: Basis_MeshPart0
+    400004: Basis_MeshPart1
+    400006: Basis_MeshPart2
+    400008: BezierCircle
+    400010: Circle
+    400012: Door
+    400014: Door_metal
+    400016: Door_metal_001
+    400018: Door_metal_002
+    400020: Door_metal_003
+    400022: Door_metal_004
+    400024: Door_metal_005
+    400026: Door_part
+    400028: Main_wood
+    400030: Plane
+    400032: Roof
+    400034: Roof_001
+    400036: //RootNode
+    400038: Top_window_wood
+    400040: Window
+    400042: Window_close
+    400044: Window_wood
+    400046: Wood
+    2300000: Basis_MeshPart0
+    2300002: Basis_MeshPart1
+    2300004: Basis_MeshPart2
+    2300006: BezierCircle
+    2300008: Circle
+    2300010: Door
+    2300012: Door_metal
+    2300014: Door_metal_001
+    2300016: Door_metal_002
+    2300018: Door_metal_003
+    2300020: Door_metal_004
+    2300022: Door_metal_005
+    2300024: Door_part
+    2300026: Main_wood
+    2300028: Plane
+    2300030: Roof
+    2300032: Roof_001
+    2300034: Top_window_wood
+    2300036: Window
+    2300038: Window_close
+    2300040: Window_wood
+    2300042: Wood
+    3300000: Basis_MeshPart0
+    3300002: Basis_MeshPart1
+    3300004: Basis_MeshPart2
+    3300006: BezierCircle
+    3300008: Circle
+    3300010: Door
+    3300012: Door_metal
+    3300014: Door_metal_001
+    3300016: Door_metal_002
+    3300018: Door_metal_003
+    3300020: Door_metal_004
+    3300022: Door_metal_005
+    3300024: Door_part
+    3300026: Main_wood
+    3300028: Plane
+    3300030: Roof
+    3300032: Roof_001
+    3300034: Top_window_wood
+    3300036: Window
+    3300038: Window_close
+    3300040: Window_wood
+    3300042: Wood
+    4300000: Circle
+    4300002: BezierCircle
+    4300004: Door_metal_003
+    4300006: Door_metal_005
+    4300008: Door_metal_004
+    4300010: Door_part
+    4300012: Door_metal_002
+    4300014: Door_metal_001
+    4300016: Door_metal
+    4300018: Top_window_wood
+    4300020: Window
+    4300022: Door
+    4300024: Window_wood
+    4300026: Window_close
+    4300028: Main_wood
+    4300030: Basis_MeshPart0
+    4300032: Basis_MeshPart1
+    4300034: Basis_MeshPart2
+    4300036: Roof_001
+    4300038: Plane
+    4300040: Wood
+    4300042: Roof
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: c11b2808fb6c9f04cbda4e669cbdb19c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_Wood
+    second: {fileID: 2100000, guid: 670773025e48a2e4dac354e29e3d3a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_wood_end
+    second: {fileID: 2100000, guid: 6e4ada65d654056438883b2be646758f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 9752fdebaaed1da438c1ab48e52bcad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 2d732a78ffc64a149a8a512adcc8571f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: fdc087f582ad02c4a9d1b9c956d637c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof__RooftilesWood0028_1_S_COLOR_png
+    second: {fileID: 2100000, guid: 1ef6d2e0996827e4e9620bac855e39e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rust_metal
+    second: {fileID: 2100000, guid: d58f04222dd885d4c80baaeeca78c814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: a02b30f055d280e499d99f730c8e2e17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood__pic06_0_600x600_jpg
+    second: {fileID: 2100000, guid: de83f7126a90d4c4fa6c70a066b59f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: 97ccbd21e6ffeb04ab5b2cb8d7d81caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 3f5dd6904dd0de741ac458c40f43a1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls
+    second: {fileID: 2100000, guid: 287b88127e888614c92f2ef6ec78f966, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
